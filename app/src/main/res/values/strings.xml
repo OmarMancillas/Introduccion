@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Introduccion</string>
+    <string name="tvResultado">Resultado</string>
+    <string name="etGrados">Grados</string>
+    <string name="tvMain">Main</string>
+    <string name="tvKotlin">Kotlin</string>
+    <string name="rbCentigradosFahrenheit">Centigrados - Fahrenheit</string>
+    <string name="rbFahrenheitCentigrados">Fahrenheit - Centigrados</string>
+    <string name="chkMostrarImagen">Mostrar Imagen</string>
+    <string name="btnCambiarAKotlin">Cambiar a kotlin</string>
+    <string name="btnJavaMensaje">Enviar Mensaje</string>
+    <string name="btnCambiarAJava">Cambiar a java</string>
+    <string name="btnKotlinMensaje">Enviar Mensaje</string>
+    <string name="btnMostrarCasa">Mostrar Casa</string>
+
+</resources>
